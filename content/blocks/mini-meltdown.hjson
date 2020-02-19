@@ -16,3 +16,12 @@ powerUse: 14
 shootSound: laserbig
 activeSound: beam
 activeSoundVolume: 2
+requirements: [
+  copper/250
+  lead/350
+  graphite/300
+    silicon/325
+  surge-alloy/325
+]
+category: turret
+research: meltdown
