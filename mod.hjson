@@ -1,0 +1,5 @@
+name: "mini-meltdown"
+displayName: "[red]Mini Meltdown"
+author: "GingerWolf"
+description: "A mod that adds tiny meltdowns"
+minGameVersion: "103"
