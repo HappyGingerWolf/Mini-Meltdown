@@ -1,0 +1,18 @@
+type: LaserTurret
+name: Mini Meltdown
+description: A tiny laser cannon. Charges and fires a persistent laser beam at nearby enemies. Requires coolant to operate.
+health: 3200
+size: 1
+reload: 80
+shootShake: 2
+range: 190
+shootType: meltdownLaser
+shootEffect: shootBigSmoke2
+shootCone: 40
+recoil: 4
+firingMoveFract: 0.5
+shootDuration: 220
+powerUse: 14
+shootSound: laserbig
+activeSound: beam
+activeSoundVolume: 2
