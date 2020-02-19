@@ -18,8 +18,8 @@ activeSound: beam
 activeSoundVolume: 2
 consumes: {
   liquid: {
-    liquid: water
-    amount: 0.5
+    liquid: cryofluid
+    amount: 30
   }
 }
 requirements: [
